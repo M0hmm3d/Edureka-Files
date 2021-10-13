@@ -1,0 +1,2010 @@
+Good evening Once Again.
+
+Warm Greetings from Edureka.
+
+Topics to cover in today's session
+
+1. Instructor introduction
+   Raghu Anand - Senior Technical Instructor.
+   10+ years of Experience in Training Domain.
+   BE Graduate - Information Science Background.
+   3000+ students has been trained by me.
+   Instructional Designer - Design of Course.
+   Technical Consultant - Advice/Mentor.
+   Full Stack Developer - Web Applications.
+   Strength:
+1. Learning New Technologies.
+1. Open to Feedback.
+   Humble Request - Please stop me then and there itself and
+   get your doubt clarified.
+   Heterogenous Batch - Patient and Kind.
+
+1. Learner introduction
+   Name, No_of_years_of_Experience, Experience_in_MERN_Stack,
+   City, Country.
+
+Eg: Raghu Anand, 10+ years, 4+ years, Bangalore, India.
+
+70+ 0 years, 20+ 3years, 10+ >3 years.
+
+3. LMS walkthrough
+
+4. IDE - VS Code
+
+Editors -
+
+Notepad - Black and white, No colors can be added, search
+is difficult....
+Notepad++ - text to have colors, line numbers, search
+is easy....
+
+IDE - Integrated Development Environment. - Notepad + Some awesome features.
+
+Eclipse, Pycharm, NetBeans, VS code, etc.....
+
+VS code - Visual Studio Code - Microsoft.
+
+Installation Steps:
+
+1. Visit the Web page: https://code.visualstudio.com/
+2. CLick on the Downloaded package.
+3. Dialog Box will open
+   Select the option I agree to terms and conditions
+   click Next
+4. It will show you the path where it will be installed.
+   click Next
+5. CLick Next
+6. Some options will be listed......
+   Add to path option will be visible.....Please
+   select this option.
+7. Click Next
+8. Click on the Install Button
+9. Click on Finish Button
+
+10. Assignment document walkthrough from lms
+    In the Day wise Documents or At the End of Each PPT.
+
+11. Github walkthrough for assignment submission
+
+Git and Github
+
+Traditional -> Create Documents -> to be shared among the people
+
+EG: 1 DOcument => 40+ to write the assignment inside this ??
+Absolutely Not possible.
+Solution: 1st first will open - add his assignments,
+2nd person will open - ..........goes on.
+
+problem No 1: Only one person can work at a time.
+
+Probelem No 2: Takes more time.
+
+Problem No 3: No proper management of resources.
+
+Problem No 4: Sharing is not possible.
+
+Problem No 5: After some time we do not know who did what ??
+
+A tool was invented called as VCS - Version Control Software.
+
+Version Control Software can be used
+
+1. To share easily among the people.
+2. you can work simultaneously or parallely.
+3. Track
+
+VCS has many types of softwares....... one such s/w is called as GIT.
+
+Git Hub = SOmeone has installed git tool in a server and this server is made
+accessible to everyone and anyone.
+=> Server is connected to the internet.
+
+server = ??
+desktop or a laptop..
+If you connect your desktop/laptop to a internet after installing a s/w
+called as server OS.[Tomcat, Linux Server, Windows Server, etc....]
+
+You will create a application and you will install the application
+in the server. Everyonr through out the world can access your application
+from the server.
+
+Installation or Registering on GitHub.
+Installation Steps:
+
+1. Visit the Web page:https://github.com/
+2. Click the Signup Link/Button
+3. Enter the email address:
+4. click continue
+5. Create a password:
+6. click continue:
+7. Username:
+8. click continue
+9. Solve a puzzle: you have to select all the spiral galaxy in the images..
+10. Create Account Button
+11. New page and it will ask you enter the code..........
+    Inside the mail box of the mail address that you have given.
+12. Verify code Button
+13. questions = skip button.
+14. Dashboard !!!!!!!!!!!!!!
+
+Github -> upload your documents => Git tool
+you are going to upload the documents from your system. => Git tool
+
+Local system [Install git tool ]===> sending some documents ===> github [git tool]
+
+Git tool in our system:
+
+1. Visit the website https://git-scm.com/
+2. click on the downloaded file
+   Do you want to allow this application to make changes -- Click yes
+3. Information - Click Next
+4. click Next
+5. Do not change any options simply keep on clicking next.......
+6. Install Button - click on it.
+7. Finish button - click on it.
+
+Working of Git:
+=> New folder => mkdir command
+=> git init => Initialize the Git tool at that particular new folder.
+
+//The git is tracking the folder !!!
+
+=> Create your project inside this New folder.
+=> The project has to stagged.
+=> The stagged project will be taken into local git repository.
+
+7. Pivotal tracker to explain user story.
+   => It is a tool which is used to manage the project.
+   => It tracks all the tasks and keeps everyone on the same page.
+   => Data is shared on a real time basis.
+   => Project Management Tool
+   => Jira tool is similar to your pivotal tracker.
+
+8. Zeplin to explain design access.
+   => You can access the designs and also you can figure out the height, width
+   etc.. all the css properties can be browwored from there.
+
+9. Discuss the Course agenda including the explanation of internship sessions and Mentorship sessions
+
+internship sessions => Saturday and Sunday => 3 pm to 5 pm in Afternoon
+
+Mentorship sessions => Tuesday and Thrusday => 7:30 pm to 08:30 pm evening.
+Doubt clearing session
+Tips on how to search for a job.
+How to shortlist the companies and what all is required to clear an
+interview........
+
+Questions:
+
+1.  git config --global user.name "yuvari"
+    git config --global user.email "test@test.com"
+
+2.  sir can you show how to make folder from cmd
+    mkdir folder_name
+
+3.  sir can you once again explain from
+    git puch abc master
+    // git is the local tool
+    // we are asking the local tool named git to push the branch called as
+    master to the path specified inside the abc variable !!!!
+
+4.  git add .
+    [move the files from dir to staging area]
+
+5.  sir i got info: please complete authentication in your browser....
+
+Browser
+
+Day 3 - 05/Sep/2021
+
+Whats the importance of this course?
+=> Full stack developer - mern
+Front End - HTML, CSS, Bootstrap, JavaScript
+Framework/library => Reactjs
+Back End - Nodejs, Expressjs
+Database - MongoDB
+
+=> Front End Developer/Front End Designer
+HTML, CSS, Bootstrap, JavaScript
+=> Front End Engineer
+HTML, CSS, Bootstrap, JavaScript + Front End Framework/library
+=> Back End Developer/Back End Engineer
+Nodejs, Expressjs + JavaScript[ES5/ES6]
+=> Database Admin/Database Developer/Database Designer
+MongoDB
+=> Reactjs Developer
+ReactJS
+=> Full Stack Developer
+Basic + Intermediate + Some expert will be covered.
+
+Overview of Web !!!
+=> Initially 1960's, US army had lot of bases all over the world.
+=> to connect all the bases together so that they can communicate with ease.
+=> Network
+
+=> 1980's the education universities which was present all over the world
+wanted to share the research documents with other university.....
+=> The corporate companies which was present all over the world also wanted
+to share the communication b/w them
+=> Network
+
+90's
+=> Since the introduction of HTML the network become Internet.
+=> HTML helps us in sharing the information in the form of Documents
+HTML = Static Documents.
+= THE DATA WAS FIXED !!!
+CSS = It is used to provide style to the Static Documents.
+JS = Helps to create dynamic documents.
+libraies = ajax, jquery, etc...
+Framework = collection of library
+Angular, Reactjs, Vuejs, etc...
+
+BackEnd
+logic = Used to handle the data
+//Implement the logic python, java, php, .net, etc....
+
+//Why cant we use JS to write the logic ???
+Nodejs - Run time environment which can be used to execute Javascript.
+
+Express JS = Framework for Nodejs
+
+Database = Used to store the data
+//RDBMS[Mysql, Sql, etc...]
+//NRDBMS = mONGOdb
+
+Module 1 - HTML Concepts
+Agenda - Static Webpage
+
+Element => Opening Tag + Closing Tag + Content b/w the opening and closing
+tag
+
+H/W
+
+<script></script>
+<style></style>
+
+Block Level Elements
+=> Margin
+=> maximum width irrespective of the content it has.
+=> Start in a new line
+=> collection of lines
+EG: <table>, <tr>, <td>, <ul>, <ol>, <li>, etc...
+
+Inline Level Elements
+=> No Margins
+=> Will not have maximum width. It will take up the width as per the content
+it has.
+=> It does not start in a new line instead it is present inside a line.
+=> Single line
+Eg: <a>, <script>, <button>, <img> etc..
+
+Div
+=> Block Element
+=> This will act as a container where other HTML elements can be added inside
+this container.
+
+Span
+=> Inline Element
+=> This will act as a container where it can be used at a Inline Level
+
+Input Tags
+=> Are used to accept the input from the users from the Browser.
+type = "text" => user to enter text data
+type = "number" =>
+type = "password"
+type = "button"
+date
+checkbox
+radio
+submit
+email
+reset
+tel
+hidden
+file
+image
+etc..................
+
+12-Sept-2021
+//Select + options => dropdown
+
+//Button
+
+Unorderedlist
+ul, li
+
+ordered list
+ol, li
+
+Forms = Its a way using which we can collect information from the users
+The Form elements are as follow: 1) input 2) button 3) select 4) label 5) option 6) textarea etc..............
+The Form Attributes are as follows: 1) name => provide a name for the form 2) method => Used to specify the method that the form is gonna use.
+HTTP Methods - GET, POST, UPDATE, DELETE, etc........ 3) action => used to specify the destination to where the information should be taken to. 4) target => \_blank, \_self 5) autocomplete => true/on or false/off
+
+18/Sept/2021
+
+Lets wait for another 3-4 min. Once we have the expected strength i 
+shall begin today's session.
+
+CSS
+=> Cascading Style sheet.
+=> Adding style to HTML Document.
+=> You can implement CSS in 3 different ways, namely:
+    Inline
+        We impelment the CSS Styling on the opening tag of a HTML 
+        Element.
+    Internal
+        We impelment the CSS Styling inside the Head Element within 
+        the HTML Document.
+    External
+        We impelment the CSS Styling in a separate page and link it
+        to the HTML Document.
+
+Selectors
+    These are used to select the HTML Element so that we can implement
+    styles on them.
+    3 types of Selectors
+        Element Selector name of the element
+            Eg: p, h1, body, etc....
+        ID Selector # symbol
+            we create a id attribute inside the HTML Element. Then
+            the id_name is used to implement the styles
+        Class Selector  . symbol
+            we create a class attribute inside the HTML Element. Then
+            the class_name is used to implement the styles
+
+Dimensions
+Property => Height and width
+Values => auto, px/%/cm/em/rem, inherit
+max-height => It sets the maximum height that a HTML Element can have.
+min-height => It sets the minimum height that a HTML Element can have.
+max-width  => It sets the maximum width  that a HTML Element can have.
+min-width  => It sets the minimum width  that a HTML Element can have.
+
+display
+=> Every HTML Element will have default display settings.
+
+display: inline;
+display: block
+
+display: none;
+    //The element will not be reflected in the HTML Body 
+visible
+    Visibility: hidden;
+    //The Element will not be reflected but it will occupy some space
+    inside the HTML Body
+
+Background
+=> color
+=> image url("image_location")
+=> repeat no-repeat, repeat-x, repeat-y
+Homework - Do it Yourself[DIY]
+=> attachment
+=> position 
+
+19/Sep/2021
+
+CSS Box Model 
+    => Layout and the design based on the content.
+
+content => text/images/anything.                => Content insode the Element
+Padding => It is the area around the content.   => Inside the Element 
+border  => It is the area which is in between padding and Margin => On the Element 
+Margin  => Outermost area of the content is the border. => Ouside the Element 
+
+Inline = Internal = External
+       => Inside the Head.
+            Based on where the Internal and External data are present the precedence will 
+            take care.
+First Precedence will be for the inline then it will be for the Internal and later it will
+be for External.
+
+Selectors
+    => class
+    => ID
+    => Element
+
+Border 
+    width
+    color
+    style
+        solid, dashed, dotted, hidden, double, ridge, etc....
+    Radius
+
+Shortcut property called as border => which will accept all the 3 values together.
+
+Margin
+    top 
+    right
+    bottom
+    left
+
+margin: top right bottom left;  //shortcut property and order cannot be changed.
+margin: 0px 0px 5px 5px;
+
+Padding
+    top 
+    right
+    bottom
+    left
+
+Padding: top right bottom left;
+Padding: 0px 0px 5px 5px;    //shortcut property and order cannot be changed.
+
+padding: 0px 0px 0px 10px;
+
+Fonts
+    => This is a property which specifies the font for the given content or text
+    font-family Eg: Times New Roman, Roboto, Roboto Mono, etc...
+    font-size   Eg: %,px, cd, rem, em, etc..
+    font-style
+        normal
+        italic
+    font-weight
+        normal
+        bold
+        100 to 900
+    font-variant
+        small-campus
+        inherit
+        initial
+        normal
+
+        unset !!
+fwsf
+font: style  weight size family
+
+1st Assignment will be given Today.
+Deadline - Next week Saturday.
+
+explanation of the assignment No 1
+
+body
+    div class="header"
+        div class="logo" border-radius padding-left
+        div class="menu" padding-left
+            ul
+                li 
+                    anchor tag Login 
+                li class="" border 
+                    anchor tag Create a Account 
+    div class="content"
+        div class="heading"
+            h1 Breakfast in Mumbai
+        div class="left" boder
+            form 
+                h3 filters
+                h5 select location
+                select tag
+                h5 cuisine
+                checkbox
+                h5 Cost for two
+                radio
+                h3 Sort 
+                radio
+        div class="right"
+            div class="rone"
+            div class = "rtwo"
+            div class = "rthree"
+
+25/Sep/2021
+
+Before Bootstrap came into existance we were using CSS Media Queries.
+
+Bootstrap
+=> It is a Framework [Collection of library's]
+=> This libraries has predefined styles and predefined scripts in it.
+=> Every Predefined Styles & Scripts are accessed by a class name.
+=> Even the class names are also predefined.
+=> Made up of HTML, CSS and JS
+=> Helps us to create responsive websites easily.
+=> responsive means adapting itself to diff screen size.
+
+=> Bootstrap framework has 3 files which are required.
+1 is css file and 2 are javascript file.
+
+Include Bootstrap in HTML
+Method 1: Using CDN 
+          The Framework is hosted by some one else. And we simply
+          link those files to our project.
+Method 2: Downloading the Framework and Manually linking it with our 
+          project
+            Homework
+                => bootstrap.min.css
+                => bootstrap.min.Js
+
+Containers
+=> Its a wrapper which wraps all the elements together into a single
+body.
+=> 2 types, namely:
+1) .container
+    responsive fixed width container, left and right some space will be
+    there.
+2) .container-fluid
+    responsive but it occupies all the width.
+
+Grid System.
+=> Visualize TV, laptop, tab, watch
+width = Varies
+height = constant.
+=> Grid system helps us in managing the width of the screen
+HOW ?
+Based on a concept called as Grid.
+=> width = columns
+=> height = rows
+
+TV
+10 columns
+10 rows
+
+Tab
+5 columns
+But the rows are divided into 2 parts.
+10 rows only
+
+=> The grid system of bootstrap follows or allows only 12 columns in 
+a row.
+=> We have another 5 sub classess for row and col, namely
+1) xs   extra small => screen size < 768px
+2) sm   small       => 768 px < screen size < 992 px
+3) md   medium      => 992px < screensize < 1200 px 
+4) lg   large       => screensize > 1200 px
+5) xlg extra large  => its a guess probably more than 1400 px.
+
+Syntax: col-xs or row-xs
+
+=> Manupilation of number of columns in a single row using the 
+following syntax i.e.
+col-xs-number  or row-xs-number
+
+row - 12 columns
+    col 3rd parameter which will help us to tell the size of the col
+
+NavBar = Navigation Bar/menu
+
+=> These is placed at the top of the page.
+=> The following classes are used namely:
+1) .NavBar  => class used to implement Navbar using bootstrap
+2) .navbar-default  or .navbar-inverse => 
+3) .navbar-header   => wrapper class for brand and nav class 
+4) .navbar-brand => Used with Logos
+4) .navbar-nav  => Used with Menu Items 
+
+<div class="container">
+      <nav class="navbar navbar-expand-md navbar-danger bg-danger">
+        <div class="container-fluid">
+          <ul class="navbar-nav">
+            <li class="nav-item">e !</li>
+            <li class="nav-item">Login</li>
+            <li class="nav-item">Create a Account</li>
+          </ul>
+        </div>
+      </nav>
+    </div>
+
+Flex
+=> To manage the layout or alignment or providing size to grid columns,
+etc...
+=> syntax starts with the letter D
+d stands for display
+
+d-flex => width will be 100% irrespective of the text size 
+d-inline-flex => width is occupied based on the text.
+
+Manupilate the directions of the flex
+On Row Level
+1) flex-row => normal left to right directions
+2) flex-row-reverse => right to left direction 
+
+<div class="d-flex bg-warning">I am d-flex example</div>
+    <div class="d-inline-flex bg-success">I am d-flex example</div>
+    <div class="d-flex flex-row-reverse">
+      <div class="p-2 bg-warning">Number 1</div>
+      <div class="p-2 bg-warning">Number 2</div>
+      <div class="p-2 bg-warning">Number 3</div>
+    </div>
+
+On Column Level
+1) flex-col => normal left to right directions
+2) flex-col-reverse => right to left direction 
+
+On row Level
+1) flex-row => normal left to right directions
+2) flex-row-reverse => right to left direction 
+
+Justify content = right to left/left to right
+=> Provides the alignment to the content.
+=> Sub properties are as follows, namely:
+start, end, center, between, around & evenly
+
+<div class="d-flex justify-content-start">
+    <div class="p-2 bg-warning">Number 1</div>
+    <div class="p-2 bg-warning">Number 2</div>
+    <div class="p-2 bg-warning">Number 3</div>
+</div>
+123
+    123
+  123
+1  2  3
+ 1 2 3 
+    
+align-items => top to bottom/bottom to top
+=> flex, align in x axis or in y axis.
+start 
+end
+center
+stretch
+<div height:400px background-color: grey>
+<div class="d-flex align-items-start flex-row mb-3" style="height: 200px;">
+    <div class="p-2 bg-warning">Number 1</div>
+    <div class="p-2 bg-warning">Number 2</div>
+    <div class="p-2 bg-warning">Number 3</div>
+</div>
+</div>
+
+dropdown
+=> select tag and option tag in HTML
+=> We can include some scripts and styles using the dropdown in B.S 
+dropdown
+dropdown-menu 
+dropdown-item
+btn 
+dropdown-toggle
+btn-colors
+
+<div class="dropdown">
+    <button class="btn btn-danger dropdown-toggle">
+        Click Here
+    </button>
+    <ul class="dropdown-menu">
+        <li class="dropdown-item">Number 1</li>
+        <li class="dropdown-item">Number 2</li>
+        <li class="dropdown-item">Number 3</li>
+    </ul>
+</div>
+
+Collapse
+=> JS Plugin => It is a part of predefined script
+=> We use them as a trigger to perform some specific task.
+
+collapse class
+collapsing class
+collapse.show class
+<head><style>.myclass{ @include transition($transition-collapse)} </style></html>
+
+<a class="btn btn-success" href="#mycollapse" data-bs-toggle="collapse">Click Here For Trigger</a>
+
+<div class="collapse myclass" id="mycollapse">
+    <div class="card card-body">
+        Hey I am From India. Working with Team Edureka. Its rainy today.
+    </div>
+</div>
+
+Good Afternoon Everyone.
+
+Will begin the session in 2 min.
+
+JS/ SASS - Variables.
+transition-collapse
+transition-collapse-width 
+
+toggle - change in behavior
+       - It changes from one html element's behavior to another. 
+         Show/Hide/dispose, etc....
+
+Bootstrap Typography
+=> Headings, lists, paragraph, etc...
+
+h1 to h6 
+
+09/Oct/2021
+
+BS icons
+=> bootstrap-icons - separate style sheet.
+=> All the icons have been predefined.
+    2 methods in which you can implement this
+    1. Download this bootstrap-icons shtyle sheet
+    2. Use of CDN.
+
+Inside the Head Tag of your HTML Document.
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.5.0/font/bootstrap-icons.css">
+
+Inside the body tag of your HTML Document
+
+<i class="bi-phone"></i>
+
+BS Forms Control
+=> It supports styling to the fields within the form.
+=> size of the input fields, provide diff colors to the fields, highlight
+your fields, increase the font size, etc....
+
+BS Input Control
+    input-group
+    
+BS Carousel
+=> It is a slider that can be implemented in bootstrap.
+=> Carousel in css class and also a predefined js.
+carousel-inner
+    carousel-item
+
+carousel-control-prev => prev is script 
+carousel-control-next   => next is script
+
+<div id="myslider" class="carousel slide" data-bs-ride="carousel">
+    <div class="carousel-inner">
+        <div class="carousel-item">
+            //img
+        </div>
+        <div class="carousel-item">
+            //img
+        </div>
+    </div>
+    <button class="carousel-control-prev" data-bs-slide="prev" data-bs-target="#myslider">
+        Left
+    </button>
+    <button class="carousel-control-next" data-bs-slide="next"  data-bs-target="#myslider">
+        Right
+    </button>
+</div>
+
+Assignment No 2 Explaination
+
+The body is divided into 2 div
+
+//pseudocode - explaination purposes.
+
+<body>
+    div = container-fluid, background-image
+        div = row
+            center
+            div = col-6
+                logo - img/text
+                h1 - text-color = white
+                input-group
+                    input1
+                    input2
+
+//The below section can be implemented using tables, row/col, flex, 
+div, card etc..
+    div = container
+
+</body>
+
+
+
+
+
+
+
+
+
+Some of the extra concepts that are there in Bootstrap.
+
+Assignment No 2.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Memtorship Classes
+07/Sep/2021
+
+Good evening Everyone :)
+
+Drop all you questions in the question box ??
+
+1. How to make a Folder In CMD using Git
+   mkdir folder_name
+
+2. sir what is use of git and github
+   Sharing is a issue.
+   Tracking who did what is impossible.
+
+   Team !!
+   work you do -share that to your collegues.
+
+   Git will help us in sharing the document very easily.
+   Tracking is very easy
+   Git is installed in your local system.
+
+   Github = Git is installed on a server and this server is connected
+   to the internet.
+
+3. to applode a file throuth git we must follow all the step
+   i want to know once more time that how create folder, File, Add, Commit and push using cmd prompt
+
+Open Cmd
+mkdir folder_name
+cd folder_name
+git init //git will track this folder & .git folder
+Demo.txt //Create this file inside the folder and enter some text.
+git add Demo.txt
+git commit -m "some_message"
+
+Demo.txt //Whenever you make some change inside the file then you need to exeute the following 2 commands again.
+git add Demo.txt
+git commit -m "some_message"
+
+4. image where to store sir
+
+Folder
+index.html
+image.png
+
+img src = "./image.png"
+
+Folder1
+index.html
+Folder2
+image.png
+
+img src = "./Folder2/image.png"
+
+5. hi Sir, I've tried the tags which you have teach us last class , while i'mtrying it is not coming in a formated way sir.. to display the tags in formatted way what we have to do?
+
+For displaying them properly we need CSS or we need Bootstrap.
+
+Use <br/> and manupilate it.
+
+6. sir I am a err about ssl/tsl in Git
+   the mistake that you have done is you have added wrong path in the
+   remote !!
+
+7. is it related to tech doubts only ? or can we ask related to placements..?
+   You can ask any questions...
+
+8. cmd for creating file - Manually
+
+9. how to connect assignment to github from any source editor
+   => Answer on Saturday in the class.
+
+10. sir after giving the push command iam getting remote :no anonymous write access and also authenication failed for my github resporsity
+    Install the git once again. Use all default settings.
+
+11. doubt - sir what is the use of meta author and keyword while designing the webpage
+    You are simply giving the information in the webpage
+    these information is used by search engines.........
+
+12. sir can create new global name and global email.and how. with set with github and git.
+
+git config --global user.name "your_name"
+git config --global user.email "your_email_id"
+
+for github: you will register you will provide your username
+and mail id..
+
+13. repeate again pivotal and Zipline
+    Pivotal = Project Management Tool
+    you will create user stories which will be used by the developer to develop the code.
+    Zeplin = Its a webpage which allows us to store or create designs. You will use it to access the design and implement them in your project
+    you will get the CSS properties and the Images for your web page design.
+
+14. can edureka will help us for placement interview
+    yes we will share with you all the information which can be used by you to get a job.
+
+15. Antara - yes you can start a career !!!
+
+16. sir i get error in comand promt after creating file = ???
+
+17. what is difference between div and containers ?
+    There is no difference
+    Containers are blocks
+    Div are also blocks
+
+Containers can be used to create a bigger block
+div can be used to create sub blocks within a container.
+
+18. sir, I have sent picture in telegram channel. How to rectify this problem?
+
+19. sir what is github desktop?
+    => GUI For accessing your github account in your system.
+
+20. sir in input tag how we can add placeholder in text area.
+
+<input placeholder=""> </input>
+
+21. why scipt is inline command?
+    Because the script is a single expression.
+
+09/September/2021
+
+Good Evening Once Again :)
+
+Post all your questions in the question box.
+Make drop a question only once.
+
+1. will we be able to become a web developer in 4 months
+   Yes.
+   1.5 Month = Front End Technology
+   1 Month = Back End Technology
+   0.5 Month = Database
+   1 Month = 2-3 Different Projects.
+
+2. D:\gitdemo>git push abc master
+   info: please complete authentication in your browser...
+   fatal: An error occurred while sending the request.
+   fatal: The request was aborted: Could not create SSL/TLS secure channel.
+   Username for 'https://github.com':
+
+=> git push abc master
+
+A browser window will appear
+=> Singin with Browser or Token
+=> Select Signin with browser or use token !!
+=> A browser will apper ====> User name and password
+=> Authorize windows credentials manager for Git - CLick on this button
+=> Then come back to the terminal
+=> the data would be pushed into the GITHUB Account.
+
+3. Sir, I am having issues with cloning repositories on git hub. I followed the instructions and in the cmd prompt, it displayed "No such directory or repository exists".
+
+=> Create a Repository in GitHub
+=> You will get a path with https://**\*\***\_\_\_\_**\*\***/repo_name.git
+=> Following Steps:
+
+1.  Create a new folder in the desktop location
+2.  git clone https://**\*\***\_\_\_\_**\*\***/repo_name.git
+3.  A new folder repo_name will be created.
+
+4.  structure of attached !!!!
+
+5.  what were the sites which we can apply !!!
+
+6.  sir please talk about what to study and how to study for interview. I know this is very silly question still need your guidance.
+    => Javascript - ES5 vs ES6 Syntax => Expert in Javascript
+    => React Js
+    => MongoDB
+
+7.  Sir Element and Tag boths are same thing
+    Element = Opening Tag + Closing Tag + Content b/w them
+    Tag = Name Given to a Element.
+
+8.  Can you pls show the demo of the download the github folder data to local git ?
+
+9.  can working as a freelancer.? which opportunity do have?
+    => Yes you can work as a freelancer.
+
+10 ) can we add a whole project file in github?
+Yes....
+
+11. can you tell about placement procedure? what does edureka do for it?
+    Back End Team. Drop this question in the telegram channel.
+
+12. after this course we are prepared for job or we have to do more anything else
+    No you dont have to prepare for anything.
+    To get a job.
+
+13. Sir javascript is most important for fullsack developer
+    Yessssssssssssssssssssssssss.
+
+14. sir about credentials manger button
+    CLick yes here
+
+15. sir the step 2 that you mentioned, does that command need to be entered in the cmd prompt?
+    Yes
+
+16. we can place files which we create in github
+    Yes by pull command
+    => git pull abc master.
+
+17. why meta tags are used it doesnt affect the physical appearence of the document
+    => Meta tags are used for provding information to the following:
+18. Browser
+    Monitor size, Customize your browser
+19. Search Engines
+    Marketing, Digital, etc..
+20. Server
+    To understand from where it is getting the request.
+
+21. demand of which kind of website in market?
+    MERN/MEAN
+    MERN.....
+    MongoDB ExpressJS ReactJs Nodejs
+    MongoDB ExpressJS Angular Nodejs
+
+22. git pull abc master, in this command what is exactly abc?
+    Here abc is a local variable
+    This variable will hold the address of your remote repository.
+    abc => github respository - http://\***\*\_\_\_\_\*\***/repo_name.git
+
+23. SIr I was referring to the cloning repository step 2 . "git clone http.....", because it shows an error
+    Creating the folder in the folder which already has a .git file ???
+
+24. Sir, we gonna study oops concepts in JavaScript
+    Yes we will learn OOPs concept
+
+25. D:\gitdemo>git push abc master
+    fatal: An error occurred while sending the request.
+    fatal: The request was aborted: Could not create SSL/TLS secure channel.
+    Username for 'https://github.com':
+
+You need to install some s/w in the system
+.NEt Frameowrk
+
+23. Are we going to learn about the Solution Architecture sir?
+    Some concepts will be covered.
+
+24. how build a programing logic?
+    During the JS session i will be teaching this things
+
+25. Architecture
+    How you want your project to be created.
+
+26. Sir, are you going to teach us about data sturctures?
+    Some concepts will be covered.
+
+27. sir can you re teach cloning
+    => New folder
+    git clone path
+
+28. how much time we have to give it on daily basis
+    2 Hr minimum
+    3 Hr Maximum
+
+29. what should i include in my resume as a BSc CS graduate. also what is ATS friendly resume?
+    Technologies that you learnt in your college you can add them
+    You are currently doing an internship with Edureka on Full Stack Web Development
+
+ATS - Score given for your resume
+
+30. can you suggest us the best book to learn full stack
+    Full Stack has atleast 6 diff technologies.
+    Every 2 months once atleast one of this technologies will have a new
+    version.
+    => Online Website.
+
+//Website
+//Youtube channels
+
+31. hve maxmum number of job in this field i mean full stack developer
+    Its growing everyday... The More Internet Users the more jobs will be created.
+
+32. sir will you show the tutorial of making a folder from using git in Saturday's class
+    Yes
+
+33. Sir, after attending this four months classes, will we access to those applications again?
+    This is life time access
+
+34. sir so this is an internship and not a course?
+    This course is blend of Course and Internship
+    We teach you concepts and we make you do a project.
+
+35. sir, will you give us Question and Answer of all topic
+    Interview ???
+    => Sharing this notes to you telegram channel.
+
+36. sir can we use placeholder instead of label tag
+    Yes you can use it.
+
+37. so if its a blended course then what should we put in CV?
+    Currently Undergoing a Internship with Edureka
+
+38. Is linkedIn acc important for seeking job
+    YEssssssssssssssssssssssssssssssssssssssssss very very important
+
+14/September/2021
+
+1. sir i have a doubt regarding the assignment -there are three sections in the assignment and under each section there is like 3 to 4 user cases ,do we need to do each user cases or like how ,can u explain it once again?
+   No Dont Look into your assigment. Because CSS it will look blank.
+   Only work on HTML..
+
+2. what is anchor tag?
+   It is a link tag. It is used to provide url.
+   <a href="url"></a>
+   The text will be underlined and it will be displayed in blue color
+   It will redirect or navigate you to the url mentioned.
+
+3. sir can you explain form tag
+   Form tag is used to accept the data from the users in a webpages.
+   Block level Element.
+
+4. sir what is ins tag
+   Insert the data in a already existing element.
+
+5. how to put rupee symbol in html
+   <span>&#8377</span> or <span>&#8477</span>
+
+6. can u elaborate about html table
+   table
+   tr = table row / row
+   th = table heading / column
+   td = table definition/data / column
+
+7. Good Evening Sir, how to display Div into two harizandel row items
+   1 row but 2 columns
+
+<div style="width:100%;height:50px;">
+    <div style="width:50%;height:50px;float:left"></div>
+    <div style="width:50%;height:50px;float:right"></div>
+</div>
+
+8. sir what is small tag
+   <small>text</small>
+   16 px..... small it will be like 14 px.
+
+9. name element in radio butte is same in same plase
+   how to set the name element is same are different
+   Javascript is required.
+
+10. If edureka need full s/w developer in future can edureka give preference to edureka alumni?
+    Back End - telegram channel
+
+11. Sir, how can i align images or objects on the same line!?
+    Table
+    tr
+    td => img tag
+
+    positioning in css
+
+    Bootstrap
+
+12. sir what is attribute?
+    A property of a Element.
+
+13. sir can you show the syntax of ins tag.
+    <p>Hey I am <del>From</del> <ins>in</ins> India</p>
+
+14. In the assignment given, when we click on login and create account should they be redirected to somewhere?
+    Noooooooooooo only the front End.
+
+Ignore the assignment now. AFter CSS I will explain them.
+
+15. Sir, what is the difference between th and Thead tag
+    They are same.
+    th was introduced in HTML older version
+    Thead was introduced in HTML 5 Version
+
+16. sir what is <span></span>
+    It is inline Element. Used to add property's separately within a given
+    Element
+    EG:
+    <p>I am From <span style="color:red;">India</span></p>
+
+17) sir can you give a quick demo of auto complete on/off?
+    Its not a part of agenda. try it on your own. If not able to do it.
+    remind me on thrusday i will illustrate.
+
+18) can you please explain how do we craete a table of n number of rows and n number columns where n is greater than 2
+
+<table>
+    <tr>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+</table>
+
+19. full form of div tag
+    I dont have an idea.
+
+20. sir can't we use <!--dropdown--> in table
+    Yes you can use.. uSe them inside the td tag or th tag.
+
+21. How to write this line in html "This is a <body> element. It is used to write the body of html"?
+<p>This is a &gt;body&lt; element</p>
+
+22. I have taken a div in which I have taken 3 spans for the logo, login link and create account button..., the logo apperas in that div but the link and button appera below the div side by side. Is the structure wrong?
+    No positioning is not done. DOnt worry In css you will learn these concepts
+
+23. sir attribute controls the behavior of the tag
+    yes.
+
+24. how many tag used in html ?
+    60 + tags
+
+25. sir i have done with skeleton of html, it all aligned to left side ..,, is it fine
+    Yes it is correct. Once you implement positioning concept from css, it
+    will look really good.
+
+26. sir between ins tag we can write more than one word?????
+    Ya you can any number of words.
+
+27. In assignment blog there is "select location" with dropdown but it is not dropdown. can you explain that tag in that assignment
+    Sure I will see what it is after CSS class.
+
+28. sir probably when we will start a making website (ZOMATO)
+    Assignment = Zomato Website.
+
+29. Where we will use hr tag sir?
+    It is used to create a horizontal line. Whenever you want to create a impression that the page is divided there you can use these.
+
+30. can we put <body> inside span tag?
+    Direclty using <> is wrong Use hexadecimal values or unicode values or the &gt; /&lt; symbols.
+
+31. purposes of div tag in web development. I am confused with div tag
+    Div tag is just used to divide your html body into different parts.
+
+32. Sir, In <label For=""> 'for' is used for attaching label with particular element id?
+    No Idea.
+
+33. HTML is programming language or not?
+    No not a programming language. It is a markup language.
+
+34. html code bracket ( = &lbrack
+
+35. how to give space in text in html except in p tag
+    for space in html &nbsp;
+
+36. when we creat the redio butten the name element is same are diffrent name value
+    The name value should be same, then only it will allow you to select only one option.
+
+37. how to give semi bold for the text
+    <b></b>
+    <bold></bold>
+    CSS Property
+
+38. <!--dropdown-->
+
+    Comment in HTML
+    It is invisible in the Browser
+
+39. logo is not the image tag how get that in assignment
+    Confused
+
+40. Can we create vertical line in with any tag using HTML ??
+    Yes you can use div, table, etc...
+
+41. sir in assignment after clicking desktop design link unable to find your project comming sir??
+    telegram channel
+
+42. sir plz give the name of website made by you
+    I really dont have any names...... Categories. Ecommerce, portpolio's, School Management S/w, Network Automation, etc......
+
+43. yes for value in label should be the same as id value used for a element associated with that label
+    Id is used to provide css properties
+    name is used to provide the value for the tag
+
+44. what is the meaning of markup
+    Documents.
+
+45. is that hexadecimal value shoukd be used in span or how?
+    No you can use it directly.
+
+46. sir how many tags are there in css
+    100+ Properties
+
+47. sir is xml and html are same?
+    xml is derived from HTML But xml and html are quire different
+    HTML - Static Document
+    XML - Simple Dynamic Document
+
+48. sir can you tell how to see the codes through pivotal tracker
+    Thursday.
+
+49. He is talking about the e! - it is not an image actually in the assignment.It's a bit confusing but there are css styles associated so it has to be done once you teach us about css text formatting.
+    e! = text......
+
+50. sir what is portfolios???
+    Resume about an individual or company or anything else.
+
+51. what is minimum salary of a full stack developer
+    2.5 Lakhs --- 16 Lakhs
+
+52. can you refer any book for html , css javascript . means for frontend and backend with lot of project example s. sometimes reading book also helpful with classes.
+
+53. sir after creating a web application how to convert it to mobile application  
+    Bootstrap => Application will automatically responsive and hence the
+    same code will be used for both Web and Mobile.
+
+54. Can you please give a practical use of article element?
+    HTML = Documents
+    Heading
+    Paragragh
+    articles
+    etc....
+
+55. heve you started bootstrap
+    CSS, JS BS
+
+56. sir can u help us to create attractive resume for shortlisting
+    Guidance will be provided for creating your resumes. half of the course
+
+57. what is the difference between article and paragraph..
+    No difference
+    Articles is nothing but collection of paragraph.
+
+58. are we able to ask doubts after this session also from you..
+    Seesions and classes.
+
+59. are you working in any IT company too ..?
+    YES
+
+sir if you dont mind can you share your linkdine profile..!
+raghu.anand16@gmail.com
+
+16/September/2021
+
+1. sir can you tell something about python
+   Programming lang.
+   scripting lang
+   Mix of Pops, Oops, etc...
+   COmplex Issues.
+   Complex Mathematicial Calculations
+   Data Science. AI, etc.... ===> Python Knowledge.
+2. sir i'm unable to run the code directly in vscode
+
+3. don't forget to give us reference books
+   Lang are constantly evolving...... Books sometimes does not
+   have the updated details.
+
+   W3Schools
+
+4. Could you tell us about some websites or youtube channels for the more content about the web development and projects ideas?
+
+   Mosh Hamdani - Youtube.
+
+5. Sir ,Is it possible to apply bootstrap design in ASP.NET website?
+   Yes......
+   Django - python
+   JavaStack - java
+   LAMP - PHP
+   MERN - JS
+   MEAN - JS
+
+6. How to submit the assignment?
+   Git Repository provided by the Edureka Team.
+   You can connect directly with the Back End Team in the Telegram channel
+7. can you reffer any online documents or website that we can use to get info on tags or attributes?..like yesterday's hex value prob
+
+   W3Schools.com
+
+//8. what is <blockquote> and "cite" - attribute of blockquote
+
+The <blockquote> tag specifies a section that is quoted from another source and there cite can be used as an attribute to describe the url from which this source is obtained.
+
+<cite> in a an inline tag in html used to indicate something of a creative work eg. poem , movie name etc. it generally shows in italic.
+
+9. As you told us to do that front end page. do we have to submit or show to u?
+   No submission. Dont have to shot to me also.
+   After CSS you have to submit. Once submitted i will take a look from
+   the back end.
+
+10. Sir, please, when i have to use both Div and Hr, what is the better way to use them together : hr in div section or div in hr section?
+
+hr = self closing tag
+= horizontal line
+
+Inside the HR tag you cannot use the DIV tag !!!
+
+Use Hr tag inside the div tag.
+
+<div>
+    <hr/>
+</div>
+
+11. after diviving the page, after the image the "the big chill cakery" is coming little down. Y?
+    We still haven't implemented any styling. After CSS concepts it will work properly.
+
+12. sir can we use <p> tag inside table tag
+Absolutely yes
+<table>     //1x1 table
+    <tr>
+        <td>
+            <p>sdjfgjasdui;t</p>
+        </td>
+    </tr>
+</table>
+
+13. in related to radio button , i couldn't select only one option for true or false
+    That is because you haven't declared the name attribute as same in both the radio buttons
+
+    <input type="radio" name= "bool">True</input>
+    <input type="radio" name= "bool">False</input>
+
+14. Even if you work there for 6 months you will learn a lot then you can try other startup companies for better package.
+
+15. sir i am putting reset button in input tag. it is not working
+
+<form>
+    <input type="radio" name= "bool">True</input>
+    <input type="radio" name= "bool">False</input>
+    <input type="reset">
+</form>
+
+16. assignment is single page or multi-page?
+    DOnt worry After CSS i will again tell you about the assignments.
+
+17. sir I am confused regarding tag,element, attributes
+
+HTML Tags => predefined keywords
+Eg: p, a, body, head, html, img, etc....
+
+HTML ELement => It is made of 3 things namely: 1) opening Tag 2) Content in between the Opening and Closing Tag 3) Closing Tag
+
+Eg: <p>Hello</p>
+
+HTML Attributes => These are keywords which are used to provide additional properties to the element.
+Eg: style, width, height, border, href, src, etc.....
+
+18. will we get internship certificate and course completion certificate seperately...
+    I do believe it is like that only.
+
+19. Does Reset button works inside a form only ?
+    Yes.... Thats because you want something to be resetted.
+
+20. sir what is the meaning of a website
+    Website is a document/living entity which are used by us for sharing documents, purchasing some services online.
+
+21. What is scope.
+    Because you dont have the scope.
+    You can see only your messages. You scope is local.
+
+    In my case I can see everyone's messages.
+    In my case the Scope is global.
+
+22. sir can i ask about carrier related questions?
+    Yessssssssssssss please.
+
+23. can we have a short insight of html audio / video /canvas /svg etc. if we have some extra time?
+    HTML 5 Concepts.
+
+24. sir what is the syntax of scope
+
+JS - {}
+
+loops - {}
+
+<table>     
+    <tr>
+        <td>
+            <p>321</p>
+            <p>456</p>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <p>123</p>
+        </td>
+    </tr>
+</table>
+
+25. sir where you live
+    Bangalore, India.
+
+26. i atteend many interview but in not clear logical round what should do?
+    Coding
+
+    HackerEarth, etc..... They will conduct some events on coding.
+    Attend any 5 such events........... you will know what to do.
+
+27. sir in visual studio code by clicking on clone repository we will get our github or ???
+    Yes.....
+
+28. sir now iam currently joining cognizant as programer analyst role from here how can i become full stack developer does company values the experience i get in service based companies like cognizant .
+    Yes. you will get these experiences also.
+
+Eg: I started as a Mainframe developer - 1.25 yr
+I was working as a Business Analyst in Mainfrmae Domain - 1.25 yr
+Front End Developer
+Full stack Developer
+Trainer
+Senior Trainer
+Team under me
+
+29. sir, whether the company while selecting round took aptitude test also??
+    Now if you are trying for campus then appitude will be there.
+    But if you are trying off campus then appitude round may or may not be there.
+
+30. edureka also provide us the placement also??
+    We will provide you the help. For further details connect with the back end team
+
+31. Please give us some assignments like homework .. so that we can have hands on experience.
+    Lets Implment them from next session.
+
+32. Sir will you send these notes. When?????
+    Right away after the class i will drop it in the telegram channel
+
+33. sir which it company is famous in Karnataka
+    TCS
+
+34. Is maths Important for programming
+    A little is needed.
+
+35. Sir what is the role of maths and physics in AI.
+    What is the role of AI in Maths and Physics
+    AI is used to calculate complex calculations easily.
+    Weather prediction
+    AI is used to calculate the distance b/w the planets in the solar system under physics.
+    Performing rocket launch.
+
+36. Absolutely you can become a Full Stack Developer
+    Patience,
+    Hardwork
+    Dedication
+
+37. what is iframe tag?
+    Its oudated. It was used to divide the body in the Browser
+
+38. what is the scenario if one gets job in banglore vs Hyderabad or mumbai.....as banglore is an IT hub of the country
+    Mumbai - Hindi, cost of living very high
+    Hyderabad - Multi Lang, cost the living is medium
+    Startup's.
+    Bangalore - Multi Lang, cost of living can be low, medium or high
+    Startup's
+    Chennai
+
+39. Data Structures.
+
+40. sir can change my job position normal graduate (B.com) to IT industry. have any scope for me?
+    Absoultely yes.......
+    My collegues who are trainers are almost everyone from B.com, MSC
+    and they are working.
+
+41. sir after 4 months course if we have doubt we can contact you.
+    Yes you can get in touch linkedin. I will certainly look into it.
+
+42. What is the difference between b.com and b.tech???
+    B.com
+    Finance related job
+    B.E
+    Software realted job
+
+21/Sep/2021
+
+explanation of the assignment No 1
+
+body
+    div class="header"
+        div class="logo" border-radius padding-left
+        div class="menu" padding-left
+            ul
+                li 
+                    anchor tag Login 
+                li class="" border 
+                    anchor tag Create a Account 
+    div class="content"
+        div class="heading"
+            h1 Breakfast in Mumbai
+        div class="left" boder
+            form 
+                h3 filters
+                h5 select location
+                select tag
+                h5 cuisine
+                checkbox
+                h5 Cost for two
+                radio
+                h3 Sort 
+                radio
+        div class="right"
+            div class="rone"
+            div class = "rtwo"
+            div class = "rthree"
+
+            <div class="one"> 
+                <div class ="two">
+            css
+            .one{}
+            .two{}
+
+
+23/Sept/2021
+
+Good Evening Everyone.
+
+/folder
+    index.html
+    image1.png
+        100px*100px
+
+29/sep/2021
+
+Good Evening Everyone :)
+
+Drop all your questions/queries/concerns and please get them addressed.
+=> Concepts that we have covered
+=> Course
+=> Job oriented.
+
+1) sir you were telling that are going to tell that we didn't have to 
+memorize all the classes in bootstrap. What was that???
+https://getbootstrap.com/docs/5.1/getting-started/introduction/
+
+2) after the bootstrap shall we use css?
+70% of the time No we will not use css
+But 30% of the time we will used CSS
+Eg: success, danger, warning, etc.... => 12 colors.
+css
+
+3) when we are coping the bundle link css style is not applying
+Due to Broken link
+
+4) what is the level of java script in the couse . basic or 
+advance. if not advance  es6. where should we learn advance.
+=> JS - Basic, Intermediate, Advanced
+=> JS ES5, ES6 Versions.
+
+5) Sir , is frontend developer and UI developer same ?
+UI Developer - HTML, CSS, JS, Bootstrap
+Front End Developer - HTML, CSS, JS, Bootstrap, Front End Framework
+
+6) sir what are the contents of cs engineering and do college is 
+important for placements
+Yes it is important
+How ?
+Hardly we have around 1-1.5 lakhs openings in the company's on a yearly
+basis.
+But we are generating around 20-22 lakh engineers.
+In order to Eliminate People they use your college's Marks.
+Today 70%
+
+Startup come in - Does not even bother about your %
+Skills.......
+
+7) website to search for job
+A Big Nooooooooooooooooooooooo
+=> linkedIn - search that company - Recruiter(Hires for the company) 
+of the company and directly
+message the recruiter and inform that you are applying for a job
+opening in his opening.
+
+=> Search for top 100 starts up in India
+=> Visit there company's website. Under the career section......Jobs 
+will be listed. apply from there
+
+8) how to post assignment on LinkedIn?
+    Back End Team from Edurek will connect and update you.
+
+9) i was looking for icons, i found vector, svg, jpeg, png, what 
+is all this and what should we use? and also can we make icons form css 
+or vectors or something like this?
+These are all image formats
+.png 
+.svg 
+.jpeg 
+.jpg 
+etc....
+
+10) For automation in software testing, which is the best tool? 
+Selenium or test complete?
+    Selenium
+
+11) sir  present we can apply for the job.....before completion of 
+course.....on frontend developer?
+    After JS
+
+12) Frameworks
+JS - NODE + Express
+Python - Django
+Java - spring 
+PHP - Laravel 
+.NET - _______
+etc....
+
+13) by the corse we can re creat any application
+yeS.
+
+14) yes sir in my interview they asked closur ,
+scop chaining , higher order functions and many more react deep questions 
+
+Communication:- About Yourself.
+Javascript Questions
+1) Advanced JS Concepts
+2) ReactJS Concepts
+
+01/Oct/2021
+
+Good Evening Everyone :)
+
+Drop all your questions/queries/concerns and please get them addressed.
+=> Concepts that we have covered
+=> Course
+=> Job oriented.
+
+1) sir what is the difference between compiler and interpreter
+compiler
+    => Which will convert your entire program into Machine Understandable
+    Language.
+interpreter
+    => Which will convert the program line by line into Machine Understable
+    Language.
+
+2) sir doubt-difference between flexbox and grid in css
+flexbox and grid in css are similar in nature infact they are same.
+CSS grids are more advanced.
+flex box deals with 1 dimensional data
+CSS Grid deals with Multi deminsional data.
+
+3) After this program will I be able to easily takeover the software 
+developer’s job?
+    Javascript developer
+    Reactjs developer
+
+4) do u conduct mock interview in this course 
+    I do believe yes.
+
+5) sir what is sticky menu in js?
+
+6) sir, is it possible to make 24 col in single row in 
+bootstrap grid system?
+    It will allow. But please remember then your page will not be responsive.
+    It has to be only 12 columns.
+
+7) What about SDE…?? - Software developer engineer
+
+In small companies/Mid sized companies/ startup companies
+        roles....
+        Javascript developer    
+        Reactjs developer
+
+        - Designation
+        Associate Software Engineer
+        Software Engineer
+        Senior Software Engineer.
+
+8) Communication and Javascript skills.
+
+9) Sir….what is negative infinity in JS ?
+    It has something to do the negative infinte numbers.
+
+10) sir is there any certifications which needs to be done 
+apart from this course so that it value our profile?and can u 
+suggest any other certifications 
+Brutally Honest - Team please only this course is more than enough.
+    Different Projects
+    1) Zomato Based Website - Restaurants
+    2) Travelling Ticket Booking Based Website - Transports
+    3) Movie Ticket Booking Based Website - Theatres
+
+MERN Stack Certified Developer
+
+11) Is Developer Need to have cloud knowledge?
+Not Required. Why Because cloud provides with a service called as paas.
+    Basic Terminologies
+        Types of cloud models
+        Types of cloud services
+        Why cloud instead of servers.
+        Cloud Vendors.
+
+12) Is bootstrap all about copy pasting?
+    Yes and MayBe.
+    For Basic level it is with the help of the snippets you can move on.
+    Learn all the class names. Because you will mix them up.
+
+13) Can we build all websites in MERN stack? as java or php 
+    Yes you can.
+
+14) which is good to learn for future scope MERN or JAVA or Python
+    All 3 have equal scopes But learning MERN is little advantage.
+
+15) Is doing this internship enough to get job related to full stack 
+web developer.Or we have to do the masters course in full stack development.
+
+16) Sir…why MERN and not MEAN ?
+    We have lot of Ecommerce companied in today's environemnt.
+    SOcial Media COmpanies....... need the help of DOM Components which 
+    can be manupilated using reactjs.
+
+17) I hope that with MERN we can't build complex application
+    JS is OOPs languiage.
+
+18) what is the highest package that students have got after this course
+
+19) sir i didn't understood nav bar in bootstrap
+    Menu.
+
+20) linkdin link?
+https://www.linkedin.com/in/raghuanand16
+
+21) Class=“p-2 bg-warning”  what p-2 stands for ?? Can you please explain
+p stands for padding
+p-2
+
+22) sir what is data-bs-toggle when we need to use ??
+    Change the behaviour of any of the DOM Element.
+
+23) what is dom element means
+    HTML Element
+    DOM - Tree like representation of your HTML ELments.
+
+24) sir will u teach XML also? 
+    Yes Basic level will be covered
+
+25) what is aria-labelledby??
+    This will be taught in the class.
+
+26) If we have our own server, then also we have to pay for the domain ?
+    Yes.................
+
+06/Oct/2021
+
+Good Evening Everyone..
+
+Please go ahead ask me all your queries/concerns 
+1) COncepts that we have covered so far.
+2) Interview or job related
+3) ask me anyhting related to the course.
+
+when we get second assignment
+    Next Sunday.
+
+sir once explain bootstrap typology
+    H1 to h6
+    display-1 to display-6
+    strike - 
+    underline - 
+
+how many days are scheduled for java script?
+    8/10 classes    - concepts that are used in nodejs.
+
+will we do testing of web application also in the course
+    Testing is not taught separately.
+
+Sir, is it possible to alternate CSS concepts and Bootsstap ones?
+    - css class.
+
+can we built a responsive webpage and see it's desktop view and 
+mobile view?
+    Bootstrap
+
+generally how much time it will take to make a complete website like 
+Amazon , filpkart etc. in days and in hours by a single person
+    Creating the website just needs probably 15 days time by a single person.
+    The time it takes is managing the users.
+
+sir is java and javascript entirely different or is it same?
+    It is different.
+    Both are Object Oriented.
+
+for making chat application . what type of concepts do we have to learn 
+    socket.io - protocol which is used to built chat application.
+    Application - inside it the chat will be hosted.
+    MERN Stack.
+
+sir do we need to learn python for backend, and if so till which level 
+    No
+    we are teaching you MERN Stack - JS is used in both front End & Back End.
+
+MEAN or MERN?
+MongoDB
+Express
+Angular OR ReactJS
+Nodejs
+
+can you teach chat application during the course??
+    I wont promise. But let me try.
+
+wt is the pattern of interview sir?
+    Appitude test
+    Technical Test 
+    Technical Round - I
+    Technical Round - II
+    HR Round
+
+sir when joining this internship they said if we perform well we will 
+get an opportunity in edureka to work as a teaching assistant?
+    Yes you are correct.
+
+I have one website that has been created using wix. So do I need to write 
+whole code if I want it as the hard coded? also want it's mobile app so what 
+technology I need to go with if you suggest!! 
+    If in Wix you have used Bootstrap then you can use the same.
+    If not in Bootstrap i request you to go ahead and convert it into bootstrap
+
+when using img-fluid the image size is not changing?
+    The size of the image must be bigger than the size of your device.
+
+ sir what is asked in technical round?  Is it based on programming language 
+    Yes. JS
+    JS and advanced JS concepts 
+    some topics from your college.
+
+By developping a website, when i use bootstrap, is it usefull to use CSS aspects 
+too?
+    CSS is old technology
+    Bootstrap is new technology 
+
+it was drag and drop there. so how can I check? 
+    Wix is Website Builder.
+    Rewrite everything on your own or you can purchase the code from Wix.
+
+Complete the entire course.
+Submit all the assignment on time.
+
+Tech Round
+HR Round.
+
+sir how edurekha help in finding jobs? 
+    Communication Tips
+    2 session at the END.
+
+using 700×500px image and applying img-fluid on it in laptop
+    THis size wont work in laptop. But this may work in a mobile
+    2500px*2500px 
+
+sir, how to add icons in bootstrap web page ?
+    Awesomeicons
+    icons
+
+CAN YOU SUGGEST A BOOK TO LEARN BOOTSTRAP?
+    No need of any books.
+HTML CSS - W3Schools
+Bootstrap - Bootstrap website.
+
+Sir what are the list of data structures topics 
+required for technical interviews
+    Let me check on this and update you.
+
+after completing the course, how Edureka can help to have 
+freelances anywhere?
+    Right Now i dont have a answer to this.
+
+sir remembering boot strap classes ,i feel difficulty do you have 
+any tips for it?
+    Just Mug up the bootstrap classess.
+    Cheat SHeet for Bootstrap.
+
+SIR AS AN INSTRUCTOR WHAT WOULD SUGGEST US FOR OUR CARREAR DO WE HAVE TO 
+CHOOSE FRONT END OR BACK END OR FULL STACK WEB DEVELOPER. WHICH ONE IS BEST?
+    Back End or Full Stack or Front End Developer.
+
+what technology is used for making api
+    Java, Python, etc...
+
+it is important to learn data structure too for full stack?
+    Not really required.
+
+can you explain about nav-bar in detail?
+    Menu in a website
+    These menu will have buttons or lists or columns in a table.
+
+what is API sir can you give examples
+
+will mentorship sessions happen on weds and fridays, now?
+    ONly on Wed and Friday i.e. 6:30 to 7:30
+
+SIR ALREADY TWO SESSIONS WERE CANCELLED.NOW COURSE ENDS 
+AT JAN-4 SO DO YOU EXTEND THE COURSE? 
+    Probably yes and No.
+
+Eg: 5 concepts in a class.
+        When eveer we find time 6 concepts.
+
+what is difference between nav and nav-bar ?
+    nav = tag
+        Differentiate it from others.
+    nav-bar = predefined class which is used to created menu.
+
+CAN YOU EXPLAIN ABOUT DIRECTORY STRUCTURE?
+        project structure
+            assests
+                css
+                js
+                images
+
+            app
+                Components
+
+            etc...
+
+how to remainder the class of bootstrap
+    => Practice.
+
+

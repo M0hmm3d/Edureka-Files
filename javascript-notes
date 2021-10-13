@@ -1,0 +1,144 @@
+10/Oct/2021
+
+Javascript Class 1
+
+=> Introduction to Javascript
+=> How to Integrate JS with HTML Document
+=> Variables in JS
+=> Datatypes in JS
+=> Operators in JS
+
+Module -1 Introduction to Javascript
+
+- it is a scripting language.
+- it is used to provide dynamic content to the HTML Document
+- The DYnamic here refers to the Behaviour of your HTML tags.
+- The JS was derived from a Scripting language known as ECMAScript (European Computer's Manufacturing Association)
+- ECMAS was launched in the year 1997 - at the time of introduction JS was merely a procedure oriented scripting language.
+- A fifth Version called as ECMAScript5 was a major change since they converted the Procedure Oriented JS into Object Oriented JS - 2009
+  Procedure Oriented - C
+
+  - function based
+  - top to bottom approach
+  - No Inheritance concepts
+
+  Object Oriented - C++, Java, Python, etc......
+
+  - Object based
+  - Bottom up approach
+  - Inheritance Concepts
+
+- Typescript is the mother of JS + ES5 + ES6 + Some more extra features
+- Even though Typescript is better even today the ts is actually converted into js and then only the browser executes it.
+- AngularJS - first version - Javascript
+- Angular - second version onwards - Typescript
+
+php is also scripting lang - Can be used only in Back End
+js is also a scripting lang - Initially it was used in the Front End but after 2009 it was also used in Back End
+
+- A sixth Version - major update - it supported most of the object oriented concepts - 2015
+
+Structure of Javascript
+
+- The structure is simply we access the Html tag and change the behaviour.
+
+HTML ELEMENT = Opening tag + Content + Closing tag
+innerHTML means Content
+//HTML
+
+<p id="myid">Hello I am India</p>
+
+//Script
+document.getElementById("myid").innerHTML = "Hello I am Srilanka"
+
+After the intorduction of node, JS can be used in front end as well as back end in the web application
+
+Module 2- How to Integrate JS with HTML Document - 3 Types
+
+- Internal = Inside the Head Tag
+- Inline = Inside the HTMl ELement called as Script
+- External = A seperate JS File and we link it inside the body of the html document
+
+//Function without any parameter or any return data.
+function func_name(){
+//statements
+}
+
+//Function with parameter but without any return data.
+function func_name(parameters....){
+//statements parameters will be used here
+}
+
+//Function with parameter and return data.
+return_type function func_name(parameters....){
+//return statements parameters will be used here
+}
+
+In JS we use // to comment !!!
+
+Module 3 - Variables in JS
+
+- Variables are nothing but a name that is given to a memory location
+- Inside the memory location we will store the data/value.
+- In jS we have 3 ways to declare a variable, namely
+  DataTypes values datatype_value
+
+1. var - Yes Yes
+2. let - Yes No
+   The let keyword allows us to declare a variable which will have constant name but different values
+3. const- No No
+   The constant keyword allows us to declare a constant which will have a constant value and name.
+
+Naming Convention to be followed while declaring a variable name
+
+1. The var name must begin with a character i.e alphabet
+2. The var can also begin with \_ and $
+3. Apart from the first character any other characters can be number or it can be \_ or it can be $ or even alphabets
+4. The var name is case sensitive
+
+Datatypes in JS
+
+- The type of the value/data that is stored inside a variable.
+- 5 Major types of datatypes
+
+1. number
+   real, decimal, etc...
+2. string
+   Anything enclosed inside a single quote ot double quote
+3. boolean
+   true or false
+4. undefined
+5. object
+   {name: "Raghu"}
+
+typeof - This keyword is used to tell us what is the datatype of the value
+
+Operators in JS
+
+- The Operators are used to tell the computer how to process the data.
+- There are mainly of 5 types:
+
+1. Arithematic Operators
+   - - - / \*\* % ++ --
+2. Relational/Comparision Operators
+   == != > < >= <= === !===
+3. Logical Operators
+   && || ! with && ! with ||
+4. Bitwise Operators
+   & | ~ ^ << >>
+5. Assignment Operators
+   = += -= \*= /= %= \*\*= &= |=
+6. type Operators
+   typeof
+
+13/10/2021
+
+Please go ahead ask your queries. It can be realted to
+1. Concepts that we have covered so far
+2. Assignments
+3. Course
+4. Interview, placements, Job Oriented.
+5. General
+
+If not satidified with the answer please do repost the question again.
+Make sure you get all your queries answered.

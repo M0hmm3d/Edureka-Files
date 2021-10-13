@@ -1,0 +1,47 @@
+.container-fluid{
+  background-image: url("./Background.png");
+  width:100%;
+}
+.logo{
+  width:30px;
+}
+
+#logo1{
+  font-size: 80px;
+  font-family:'Times New Roman', Times, serif;
+  border-radius:100px;
+  padding:1px 28px 3px 25px; 
+}
+
+#drop{
+  height:42px;
+}
+.search{
+  padding-left: 25px;
+}
+
+#menu1{
+  background-color: #fbfbfb;;
+  margin-left:20px;
+  margin-bottom: 20px;
+  width: 320px;
+  height: 150px;
+  padding: 0 40px 0px 0px;
+}
+
+#menu2{
+  background-color:red;
+  margin-left:20px;
+  width: 320px;
+  height: 150px;
+  padding: 0 40px 0px px;
+}
+
+
+#line1{
+  width:50%;
+  height:30px;
+
+  padding-left:30px;
+  margin-top: 14px;
+}

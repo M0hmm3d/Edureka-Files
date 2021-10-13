@@ -1,0 +1,145 @@
+.header{
+        width:1332px;
+        height:80px;
+        background-color: #ce0505;
+}
+.header_left{
+    width: 20%;
+    height:inherit;
+    float:left;  
+
+}
+.hl_logo{
+    width: 40px;
+    margin: 16px 25px 27px 113px;
+   padding:4px;
+    font-weight: 900px;
+    font-size:33px;
+    font-family: Poppins;
+    text-align-last: 10px;
+    color: #eb2929;
+    background-color:#fff;;
+    border: 1x solid #eb2929;
+    border-radius: 40px; 
+
+}
+.header_right{
+    width:80%;
+    height:inherit;
+    float:right;
+}
+.hr_ul{
+    margin-right: 30px;
+    float:right;
+    padding-top:10px;
+}
+.hr_li{
+    margin:10px;
+    display:inline;
+}
+.hr_li_a{
+    border:1px solid #fff;
+    padding: 4px;
+}
+.hr_li a{
+    text-decoration: none;
+    padding:5px;
+    color:#fff;
+    
+}
+.content{
+    width:100%;
+    height:750px;
+    background-color:#fbfbfb ;
+    
+}
+.heading{
+    width: 512px;
+    height: 51px;
+    margin: 47px 25px 27px 113px;
+    font-family: Poppins;
+    font-size: 36px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.53;
+    letter-spacing: normal;
+    text-align: left;
+    color: #192f60;
+    display: inline;
+
+}
+.left_border{
+    width: 80%;
+    height: inherit;
+}
+.list{
+    width: 180px;
+    height: 540px;
+    float:left;
+    margin: 6px 45px 8px 113px;
+    padding: 17px 25px 31px 26px;
+    box-shadow: 0 3px 6px 0 rgba(0, 0, 0, 0.16);
+    background-color: #fff;
+}
+.blocks{
+    Margin:9px;
+}
+.b1{
+    width: 660px;
+    height:260px;
+    Margin:3px;
+    box-shadow: 0 3px 6px 0 rgba(0, 0, 0, 0.16);
+    background-color: #fff;
+    float:right;    
+    border-radius: 20px;
+}
+.b2{
+    width: 660px;
+    height:260px;
+    box-shadow: 0 3px 6px 0 rgba(0, 0, 0, 0.16);
+    background-color: #fff;
+    float:right;
+    border-radius: 20px;
+}
+.top{
+    width: 660px;
+    height:150px;
+    display: inline-block;
+  
+}
+.imag{
+    width:230px;
+    height:140px;
+    Margin:8px 0px 0px 25px;
+    border-radius: 50px;
+    float:left;
+}
+.imag1{
+    Margin:10px 10px 10px;
+    width:160px;
+    border-radius: 50px;
+}
+.h1{
+    width: 220px;
+    height: 65px;
+    Margin: 5px 0px 5px 0p;
+    float:left;
+}
+
+.numbers{
+    width:100%;
+    height:50px;
+    margin-top:200px;
+}
+.nbli{
+    display: inline;
+    border: 1px solid black;
+    padding:5px;
+    border-radius: 8px;    
+}
+.nbul{
+    padding-top: 350px;
+    padding-left:680px;
+ 
+}
